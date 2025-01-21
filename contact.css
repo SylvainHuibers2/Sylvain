@@ -96,7 +96,7 @@ footer {
     color: white;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 60px) {
     nav ul li {
         display: block;
         margin: 10px 0;

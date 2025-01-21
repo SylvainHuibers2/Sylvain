@@ -102,3 +102,11 @@ footer {
         margin: 10px 0;
     }
 }
+
+
+.logo {
+    position: absolute;
+    top: 10px;  /* afstand van de bovenkant */
+    left: 10px; /* afstand van de linkerkant */
+    width: 50px; /* pas de grootte van het logo aan */
+}
